@@ -48,7 +48,7 @@ public class _3_first_missing_positive {
        
     }
     public static void main(String [] args){
-        try(Scanner sc= new Scanner(System.in);){
+        try(Scanner sc= new Scanner(System.in)){
             System.out.println("Enter the number of elements in  array");
             int len=sc.nextInt();
             int[] array= new int[len];
