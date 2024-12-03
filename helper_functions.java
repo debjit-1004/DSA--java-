@@ -1,4 +1,5 @@
-public class helper_functions {
+public class helper_functions<k,v> {
+    
     
     
 }
