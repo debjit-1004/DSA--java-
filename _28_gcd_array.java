@@ -20,9 +20,10 @@ public class _28_gcd_array {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         //gitString input = sc.nextLine();
-        int [] arr={6,3};
-        System.out.println(arr);
+        int [] arr={6,3,1};
+        System.out.println(array_GCD(arr));
         sc.close();
+
 
     }
     
